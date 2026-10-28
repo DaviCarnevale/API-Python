@@ -1,0 +1,7 @@
+# Ignorar o banco de dados local
+instance/
+data.db
+
+# Ignorar a pasta do ambiente virtual
+venv/
+.venv/
